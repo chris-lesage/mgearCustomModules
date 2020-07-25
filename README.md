@@ -1,4 +1,4 @@
-A collection of **custom mGear Shifter components** used by ![Rigmarole Studio](https://rigmarolestudio.com)
+A collection of **custom mGear Shifter components** used by [Rigmarole Studio](https://rigmarolestudio.com)
 
 This is meant for use in mGear, the Maya rigging framework.
 
